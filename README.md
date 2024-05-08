@@ -4,11 +4,13 @@ Cadastro de loja
 
 1. Entendimento do Problema e Definição de Escopo: 
 - Metodologia ágil: Scrum
+- Modelo: Cascata
 - Quadro Kanban
 - Issues ou Projects do Github
 - Readme do Github
 - Draw.io
 - Github
+
 
 
 2. Levantamento de Requisitos: 
