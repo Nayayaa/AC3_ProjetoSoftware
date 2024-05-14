@@ -109,4 +109,5 @@ Para levantamento de requisitos com os stakeholders, utilizamos entrevistas e ob
 Pela nossa observação, um problema recorrente com os atuais apps de gestão de fila é que os perfis de usuário não são carregados corretamente. Os usuários não conseguem retornar ao acesso e ver as escolhas que tinham feito anteriormente, e o sistema quando vai notificar o usuário, não notifica, pois não realiza o cruzamento das informações corretamente. Problemas de interface também são comuns, os apps muitas vezes possuem mais informações do que o necessário, induzindo o usuário ao erro e falha durante o preenchimento de informação. Como por exemplo, a ausência de especificação se a data a ser preenchida é a que gostaria para o atendimento, ou a data atual.
 
 ## Casos de Uso
-Segue link para o Casos de Uso: https://app.diagrams.net/#LAC3.drawio.html#%7B"pageId"%3A"7a46PBCzOwYg9O1-vh7n"%7D
+Segue abaixo imagem do Casos de Uso.
+![image](https://github.com/Nayayaa/AC3_ProjetoSoftware/assets/101233011/358882d8-0d6d-42f6-bb2d-ea49b1185f42)
