@@ -20,8 +20,8 @@
 
 3. **Técnica de descrição de requisitos escolhida:** Descrição com tabelas Ator x Usuário de casos de uso. (Justificar a escolha da técnica)
 
-## Requisitos: Aplicativo de fila de clientes.
-Lista de requisitos funcionais para o projeto. ##
+## Requisitos: Aplicativo de fila de clientes. ##
+Lista de requisitos funcionais para o projeto.
 
 1. Cadastro de usuários:
 O sistema deve permitir o cadastro dos clientes na plataforma.
