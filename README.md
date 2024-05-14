@@ -20,7 +20,7 @@
 
 3. **Técnica de descrição de requisitos escolhida:** Descrição com tabelas Ator x Usuário de casos de uso. (Justificar a escolha da técnica)
 
-## Requisitos: Aplicativo de fila de clientes. ##
+## Requisitos: Aplicativo de fila de clientes. 
 Lista de requisitos funcionais para o projeto.
 
 1. Cadastro de usuários:
@@ -54,8 +54,7 @@ Garantir que o aplicativo funcione em várias plataformas, como iOS, Android e W
 Implementar medidas de segurança robustas para proteger as informações pessoais dos clientes armazenadas no aplicativo.
 
 
-
-## Requisitos Não Funcionais: Aplicativo de fila de clientes. ##
+## Requisitos Não Funcionais: Aplicativo de fila de clientes. 
 1. Desempenho:
 O aplicativo deve ser responsivo e rápido, mesmo em períodos de alta demanda, para garantir uma experiência fluida para os usuários.
 
@@ -79,3 +78,32 @@ O sistema deve ter um tempo de resposta em 3 segundos, garantindo que as intera�
 
 8. Interface:
 O aplicativo deve ter um design de interface do usuário reconhecidos e consistentes para fornecer uma experiência coesa em todas as plataformas e dispositivos.
+
+# App para gestão de fila de clientes
+
+Para levantamento de requisitos com os stakeholders, utilizamos entrevistas e observação. Nosso objetivo com essas duas técnicas é a proximidade com o cliente e a compreensão direta do seu objeto com o app desenvolvido. A etapa da entrevista é importante para elucidar, abranger e compreender todas as dúvidas e necessidades do usuário, mesclando a compreensão tecnológica do projeto, mas também humana. Com o objetivo de completa compreensão do usuário final, a entrevista visa, por meio do questionamento, chegar ao centro da funcionalidade do app, e assim ramificar posteriormente suas aplicações e funcionalidades. A observação nos dá uma visibilidade maior de como apps parecidos com esse operam atualmente, podendo extrair alguns parâmetros de funcionalidade. Um advento desta etapa são os problemas que ainda são recorrentes e presentes em apps já existentes, podem ser evitados e contornados, já começando o desenvolvimento do app, evitando erros comuns neste segmento.
+
+## ENTREVISTA COM O STAKEHOLDER
+
+- Quais são os recursos mais importantes para gerenciar filas de clientes em salões de beleza?
+
+    Resposta - Gerenciar filas de clientes em salões de beleza é essencial para garantir um atendimento eficiente e uma experiência positiva para os clientes. Minhas prioridades são:
+    - Agendamento Online
+    - Notificações e Lembretes
+    - Priorização Inteligente
+    - Monitoramento em Tempo Real
+    - Integração com PDV
+    - Relatórios e Análises
+    - Aplicativo para Clientes
+
+- Qual a maneira mais fácil para seus clientes usarem esta funcionalidade, WhatsApp, app ou site?
+
+    A escolha é o WhatsApp, devido à sua facilidade de uso. Muitas pessoas já estão familiarizadas com o WhatsApp, tornando-o uma opção conveniente. Os clientes podem simplesmente enviar uma mensagem para agendar ou verificar sua posição na fila. O WhatsApp permite uma comunicação direta entre o cliente e o salão. Os clientes podem fazer perguntas, receber atualizações e até mesmo cancelar ou reagendar seus horários. Alguns salões usam chatbots no WhatsApp para automatizar o agendamento e fornecer respostas rápidas.
+
+- Além desta ferramenta, gostaria de um app integrado a ela?
+
+    Sim, seria interessante ter um app que integrasse as respostas recebidas pelo WhatsApp, para que eu possa visualizar com mais clareza a lista de clientes que serão atendidos naquele dia.
+
+## OBSERVAÇÃO
+
+Pela nossa observação, um problema recorrente com os atuais apps de gestão de fila é que os perfis de usuário não são carregados corretamente. Os usuários não conseguem retornar ao acesso e ver as escolhas que tinham feito anteriormente, e o sistema quando vai notificar o usuário, não notifica, pois não realiza o cruzamento das informações corretamente. Problemas de interface também são comuns, os apps muitas vezes possuem mais informações do que o necessário, induzindo o usuário ao erro e falha durante o preenchimento de informação. Como por exemplo, a ausência de especificação se a data a ser preenchida é a que gostaria para o atendimento, ou a data atual.
