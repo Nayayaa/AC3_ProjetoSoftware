@@ -55,7 +55,7 @@ Implementar medidas de segurança robustas para proteger as informações pessoa
 
 
 
-## Lista de Requisitos Não Funcionais do Cadastro do Lojista ##
+## Requisitos Não Funcionais: Aplicativo de fila de clientes. ##
 1. Desempenho:
 O aplicativo deve ser responsivo e rápido, mesmo em períodos de alta demanda, para garantir uma experiência fluida para os usuários.
 
