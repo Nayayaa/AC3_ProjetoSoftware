@@ -19,3 +19,36 @@
     Documentar os requisitos funcionais e não funcionais
 
 3. **Técnica de descrição de requisitos escolhida:** Descrição com tabelas Ator x Usuário de casos de uso. (Justificar a escolha da técnica)
+
+Requisitos: Aplicativo de fila de clientes.
+Lista de requisitos funcionais para o projeto.
+
+1. Cadastro de usuários:
+O sistema deve permitir o cadastro dos clientes na plataforma.
+Os campos obrigatórios para o cadastro incluem: nome completo, e-mail, telefone e endereço.
+
+2. Validação do CNPJ:
+O sistema deve validar o CNPJ fornecido pelos clientes.
+O CNPJ deve ser único para cada loja cadastrado.
+
+3. Informações Pessoais:
+Os clientes deve fornecer seu nome completo, primeiro nome e sobrenome.
+O campo de e-mail deve ser validado quanto ao formato correto.
+
+4. Agendamento de horários:
+Permitir que os usuários agendem horários específicos para serem atendidos, ajudando a reduzir o tempo de espera e melhorando a experiência do cliente.
+
+5. Cancelamento e reagendamento:
+Capacidade para os clientes cancelarem ou reagendarem suas reservas na fila, se necessário.
+
+6. Endereço:
+Os clientes deve informar seu endereço, incluindo rua, número, bairro, cidade, CEP, país e estado.
+
+7. Sistema de pagamento:
+Integrar o aplicativo com um sistema de pagamento para permitir que os clientes paguem taxas de reserva ou depósitos. Forma de pagamento (Cartão de crédito, cartão de débito, dinheiro, pix).
+
+8. Suporte multicanal:
+Garantir que o aplicativo funcione em várias plataformas, como iOS, Android e Web, para alcançar o maior número possível de clientes.
+
+9. Segurança dos dados:
+Implementar medidas de segurança robustas para proteger as informações pessoais dos clientes armazenadas no aplicativo.
