@@ -20,8 +20,8 @@
 
 3. **Técnica de descrição de requisitos escolhida:** Descrição com tabelas Ator x Usuário de casos de uso. (Justificar a escolha da técnica)
 
-Requisitos: Aplicativo de fila de clientes.
-Lista de requisitos funcionais para o projeto.
+## Requisitos: Aplicativo de fila de clientes.
+Lista de requisitos funcionais para o projeto. ##
 
 1. Cadastro de usuários:
 O sistema deve permitir o cadastro dos clientes na plataforma.
@@ -55,7 +55,7 @@ Implementar medidas de segurança robustas para proteger as informações pessoa
 
 
 
-Lista de Requisitos Não Funcionais do Cadastro do Lojista
+## Lista de Requisitos Não Funcionais do Cadastro do Lojista ##
 1. Desempenho:
 O aplicativo deve ser responsivo e rápido, mesmo em períodos de alta demanda, para garantir uma experiência fluida para os usuários.
 
@@ -71,7 +71,7 @@ O aplicativo deve ser compatível com uma ampla variedade de dispositivos e sist
 5. Regulamentações:
 O aplicativo deve cumprir todas as regulamentações e padrões relevantes da indústria, incluindo aqueles relacionados à segurança de dados e proteção do consumidor.
 
-6.Manutenção:
+6. Manutenção:
 O aplicativo deve ser fácil de manter e atualizar, com procedimentos claros para implementar correções de bugs e lançar novos recursos.
 
 7. Tempo de Resposta:
