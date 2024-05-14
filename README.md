@@ -57,26 +57,25 @@ Implementar medidas de segurança robustas para proteger as informações pessoa
 
 Lista de Requisitos Não Funcionais do Cadastro do Lojista
 1. Desempenho:
-
 O aplicativo deve ser responsivo e rápido, mesmo em períodos de alta demanda, para garantir uma experiência fluida para os usuários.
+
 2. Escalabilidade:
-
 O sistema deve ser capaz de lidar com um grande número de clientes simultaneamente, escalando conforme necessário para atender às demandas.
+
 3. Segurança da informação:
-
 Garantir a segurança dos dados dos clientes, incluindo medidas como criptografia de dados, autenticação robusta e proteção contra ameaças cibernéticas.
+
 4. Compatibilidade:
-
 O aplicativo deve ser compatível com uma ampla variedade de dispositivos e sistemas operacionais para alcançar o maior número possível de usuários.
+
 5. Regulamentações:
-
 O aplicativo deve cumprir todas as regulamentações e padrões relevantes da indústria, incluindo aqueles relacionados à segurança de dados e proteção do consumidor.
+
 6.Manutenção:
-
 O aplicativo deve ser fácil de manter e atualizar, com procedimentos claros para implementar correções de bugs e lançar novos recursos.
+
 7. Tempo de Resposta:
-
 O sistema deve ter um tempo de resposta em 3 segundos, garantindo que as interações do usuário sejam rápidas e eficientes.
-8. Interface:
 
+8. Interface:
 O aplicativo deve ter um design de interface do usuário reconhecidos e consistentes para fornecer uma experiência coesa em todas as plataformas e dispositivos.
