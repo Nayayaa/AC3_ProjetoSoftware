@@ -111,3 +111,13 @@ Pela nossa observação, um problema recorrente com os atuais apps de gestão de
 ## Casos de Uso
 Segue abaixo imagem do Casos de Uso.
 ![image](https://github.com/Nayayaa/AC3_ProjetoSoftware/assets/101233011/358882d8-0d6d-42f6-bb2d-ea49b1185f42)
+
+## Modelo Conceitual
+Segue abaixo imagem do Modelo Conceitual.
+![Modelo Conceitual](https://github.com/Nayayaa/AC4_ProjetoSoftware/assets/101233011/50b0e8a4-eed7-4b6f-9195-5764073380ad)
+
+## Diagrama de Classes
+Segue abaixo imagem do Diagrama de Classes.
+![Diagrama de Classes](https://github.com/Nayayaa/AC4_ProjetoSoftware/assets/101233011/5d62a1d4-4eb3-4b72-8dba-1eae91b843af)
+
+
