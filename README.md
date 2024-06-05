@@ -120,4 +120,9 @@ Segue abaixo imagem do Modelo Conceitual.
 Segue abaixo imagem do Diagrama de Classes.
 ![Diagrama de Classes](https://github.com/Nayayaa/AC4_ProjetoSoftware/assets/101233011/5d62a1d4-4eb3-4b72-8dba-1eae91b843af)
 
+## Diagrama de Estado
+Segue abaixo imagem do Diagrama de Estado.
+![image](https://github.com/Nayayaa/AC4_ProjetoSoftware/assets/101233011/18b5935f-0f0a-4b6c-8230-9804856de01e)
+
+
 
