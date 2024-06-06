@@ -124,5 +124,8 @@ Segue abaixo imagem do Diagrama de Classes.
 Segue abaixo imagem do Diagrama de Estado.
 ![image](https://github.com/Nayayaa/AC4_ProjetoSoftware/assets/101233011/18b5935f-0f0a-4b6c-8230-9804856de01e)
 
+## Diagrama de Sequência
+Segue abaixo imagem do Diagrama de Sequência.
+![image](https://github.com/Nayayaa/AC4_ProjetoSoftware/assets/101233011/18b5935f-0f0a-4b6c-8230-9804856de01e)
 
 
