@@ -126,6 +126,6 @@ Segue abaixo imagem do Diagrama de Estado.
 
 ## Diagrama de Sequência
 Segue abaixo imagem do Diagrama de Sequência.
-![image](https://github.com/Nayayaa/AC4_ProjetoSoftware/assets/101233011/18b5935f-0f0a-4b6c-8230-9804856de01e)
+![Diagrama_de_sequencia](https://github.com/Nayayaa/AC4_ProjetoSoftware/assets/101948164/5bb94556-b26d-4a41-9cc1-21ab623c13af)
 
 
